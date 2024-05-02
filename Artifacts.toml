@@ -1,0 +1,127 @@
+[[QSOptExact]]
+arch = "aarch64"
+git-tree-sha1 = "1fd64026a79b7e7dffe69a65249f30b157743e04"
+os = "macos"
+
+    [[QSOptExact.download]]
+    sha256 = "cc65041d8842e1248a2604ebc488f298361e8e85fe4c85a346cf1fe6ee3cff13"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.aarch64-apple-darwin.tar.gz"
+[[QSOptExact]]
+arch = "aarch64"
+git-tree-sha1 = "be59668830e85d6acc049358ca446c4af7237011"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "0e2803248c9d58e416f7912360783638820eeaa8421cfae1cccf3a3712847b29"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.aarch64-linux-gnu.tar.gz"
+[[QSOptExact]]
+arch = "aarch64"
+git-tree-sha1 = "0c1787e08461f291bf843b1940a6db36964cd666"
+libc = "musl"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "580ea0d93fe5c9f789fa2530b5f1929e0bc39d8c88118675b298f5747d3d3c98"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.aarch64-linux-musl.tar.gz"
+[[QSOptExact]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a7041a8f9576aae1b45b975c3109779eb531ef14"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "3ac8e6d226c15f3f5ca1163951bf327cecb06f9541000bc0fc311d41a49d8635"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.armv6l-linux-gnueabihf.tar.gz"
+[[QSOptExact]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "413928d08bc4a55e9f616f0e6d39a9f6352ff68d"
+libc = "musl"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "3252ac6050d0353698c1d2f5bcb21e81a0b447c795fa552109562256c87090b3"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.armv6l-linux-musleabihf.tar.gz"
+[[QSOptExact]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "07b8fd424f4c67bf2db7899db1635cc130aef8cc"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "aaffa059bb9abb21435ec15dcc87514895206d43c03f55ace604c9c5634ba172"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.armv7l-linux-gnueabihf.tar.gz"
+[[QSOptExact]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "32a48b4aad78b36c61afcd928525b6072816e7ae"
+libc = "musl"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "2a0af92c0cd111e98a2cea0c575f4648ddca1fe06322b8c2243516421c7d27c7"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.armv7l-linux-musleabihf.tar.gz"
+[[QSOptExact]]
+arch = "i686"
+git-tree-sha1 = "e632442464c5675b47020efe7d54ff79001b541c"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "ed9c1ff33f0ff3f8fabe4afdf5e679c322356129a79c1bacd70859024081d4ce"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.i686-linux-gnu.tar.gz"
+[[QSOptExact]]
+arch = "i686"
+git-tree-sha1 = "28f31d98c3b236dd0812dd7a87e420e7864ec797"
+libc = "musl"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "b4b25eb1c1c65076299bae7658c0290646ca6ce32378d34c3ee87c20573f0fc7"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.i686-linux-musl.tar.gz"
+[[QSOptExact]]
+arch = "powerpc64le"
+git-tree-sha1 = "9ac0ea7fef9bfd6b04a5636c042f3e6b628a7c0d"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "3beb9fd3f934b6720808ba6df682c56cedbda99ffddc6ac563863fcc35829735"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.powerpc64le-linux-gnu.tar.gz"
+[[QSOptExact]]
+arch = "x86_64"
+git-tree-sha1 = "321d3d13a70bc728467c5e455d1230dbc814b792"
+os = "macos"
+
+    [[QSOptExact.download]]
+    sha256 = "ee181775883801b374638323dc286ac7445481f7e264e3939c832c6c50fff0f0"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.x86_64-apple-darwin.tar.gz"
+[[QSOptExact]]
+arch = "x86_64"
+git-tree-sha1 = "dc414c3b929404d78ddf674d34bf2f6e2c6c5356"
+libc = "glibc"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "b4d1ee5c0080604a8b68594601af48a61a0fa8bfe9bd906397d7d2dbdc5b4bff"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.x86_64-linux-gnu.tar.gz"
+[[QSOptExact]]
+arch = "x86_64"
+git-tree-sha1 = "3580fe3c396b7df179c9a8f37c4994a6dd18ef47"
+libc = "musl"
+os = "linux"
+
+    [[QSOptExact.download]]
+    sha256 = "896814789957ae739151c34168787cd46d7b9e049cea5ac158cc0e5f0634faf7"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.x86_64-linux-musl.tar.gz"
+[[QSOptExact]]
+arch = "x86_64"
+git-tree-sha1 = "ccfd7c08ce271ceb8375101353ef3c3c94bc6834"
+os = "freebsd"
+
+    [[QSOptExact.download]]
+    sha256 = "ba21c9f1bc975c39473873876d2a06079106e4089bb3a0726bf890b753e7f9b8"
+    url = "https://github.com/FoolishEndeavour/QSOptExact_jll.jl/releases/download/QSOptExact-v0.1.6+0/QSOptExact.v0.1.6.x86_64-unknown-freebsd.tar.gz"
